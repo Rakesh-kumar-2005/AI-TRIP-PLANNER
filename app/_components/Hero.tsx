@@ -82,6 +82,8 @@ const Hero = () => {
               size="icon"
               onClick={onSend}
             >
+
+              
               <Send className="h-4 w-4" />
             </Button>
           </div>
